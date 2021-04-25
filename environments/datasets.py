@@ -1,5 +1,30 @@
 
 DATASETS = {
+    "citation_intent_aug300": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug300/",
+        "dataset_size": 1988
+    },
+    "citation_intent_aug600": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug600/",
+        "dataset_size": 2288
+    },
+    "citation_intent_aug900": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug900/",
+        "dataset_size": 2588
+    },
+    "citation_intent_aug1200": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug1200/",
+        "dataset_size": 2888
+    },
+    "citation_intent_aug1500": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug1500/",
+        "dataset_size": 3188
+    },
+    "citation_intent_aug3000": {
+        "data_dir": "https://github.com/cs696ds/da/data/aug/citation_intent/aug3000/",
+        "dataset_size": 4688
+    },    
+    
     "chemprot": {
         "data_dir": "https://allennlp.s3-us-west-2.amazonaws.com/dont_stop_pretraining/data/chemprot/",
         "dataset_size": 4169
