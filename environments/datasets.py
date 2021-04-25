@@ -1,5 +1,27 @@
 
 DATASETS = {
+    "citation_intent_aug_bmscore_24": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+        "dataset_size": 1746
+    },
+    "citation_intent_aug_bmscore_26": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+        "dataset_size": 1815
+    },
+    "citation_intent_aug_bmscore_28": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+        "dataset_size": 1981
+    },
+    "citation_intent_aug_bmscore_30": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+        "dataset_size": 2253
+    },
+    "citation_intent_aug_bmscore_32": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+        "dataset_size": 2842
+    },
+
+    
     "citation_intent_aug300": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/aug300/",
         "dataset_size": 1988
