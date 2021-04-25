@@ -1,23 +1,23 @@
 
 DATASETS = {
-    "citation_intent_aug_bmscore_24": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+    "citation_intent_aug_score_max24": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max24/",
         "dataset_size": 1746
     },
-    "citation_intent_aug_bmscore_26": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+    "citation_intent_aug_score_max26": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max26/",
         "dataset_size": 1815
     },
-    "citation_intent_aug_bmscore_28": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+    "citation_intent_aug_score_max28": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max28/",
         "dataset_size": 1981
     },
-    "citation_intent_aug_bmscore_30": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+    "citation_intent_aug_score_max30": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max30/",
         "dataset_size": 2253
     },
-    "citation_intent_aug_bmscore_32": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/bm25_24/",
+    "citation_intent_aug_score_max32": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
         "dataset_size": 2842
     },
 
