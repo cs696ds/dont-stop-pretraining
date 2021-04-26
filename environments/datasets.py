@@ -21,11 +21,11 @@ DATASETS = {
         "dataset_size": 2842
     },
     "citation_intent_aug_score_max34": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max34/",
         "dataset_size": 3848
     },
     "citation_intent_aug_score_max36": {
-        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max36/",
         "dataset_size": 5819
     },    
 
