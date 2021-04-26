@@ -20,6 +20,14 @@ DATASETS = {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
         "dataset_size": 2842
     },
+    "citation_intent_aug_score_max34": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
+        "dataset_size": 3848
+    },
+    "citation_intent_aug_score_max36": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/score_max32/",
+        "dataset_size": 5819
+    },    
 
 
     "hyperpartisan_news_aug_score_max24": {
