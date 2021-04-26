@@ -52,12 +52,6 @@ DATASETS = {
     },
 
 
-
-    
-https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hyper_24/train.jsonl
-
-
-
     
     
     "citation_intent_aug300": {
