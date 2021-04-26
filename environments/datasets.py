@@ -60,6 +60,37 @@ DATASETS = {
     },
 
 
+
+    
+    "rct-sample_aug_score_max24": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max24/",
+        "dataset_size": 686
+    },
+    "rct-sample_aug_score_max26": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max26/",
+        "dataset_size": 831
+    },
+    "rct-sample_aug_score_max28": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max28/",
+        "dataset_size": 1065
+    },
+    "rct-sample_aug_score_max30": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max30/",
+        "dataset_size": 1484
+    },
+    "rct-sample_aug_score_max32": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max32/",
+        "dataset_size": 2105
+    },
+    "rct-sample_aug_score_max34": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max34/",
+        "dataset_size": 2952
+    },
+    "rct-sample_aug_score_max36": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/score_max36/",
+        "dataset_size": 4196
+    },
+
     
     
     "citation_intent_aug300": {
