@@ -31,7 +31,7 @@ DATASETS = {
 
 
 
-    
+
     "citation_intent_aug_ratio0": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio0/",
         "dataset_size": 1736
@@ -71,7 +71,97 @@ DATASETS = {
     "citation_intent_aug_ratio9": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio9/",
         "dataset_size": 1736
+    },    
+
+    
+
+
+    
+    "hyperpartisan_news_aug_ratio0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio0/",
+        "dataset_size": 531
     },
+    "hyperpartisan_news_aug_ratio1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio1/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio2/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio3/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio4/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio5/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio6/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio7/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio8/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_ratio9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio9/",
+        "dataset_size": 531
+    },
+
+
+    "rct-sample_aug_ratio0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio0/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio1/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio2/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio3/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio4/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio5/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio6/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio7/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio8/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_ratio9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio9/",
+        "dataset_size": 515
+    },
+
+
+    
     
 
 
