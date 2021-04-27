@@ -30,6 +30,59 @@ DATASETS = {
     },    
 
 
+
+    
+    "citation_intent_aug_ratio0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio0/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio1/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio2/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio3/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio4/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio5/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio6/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio7/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio8/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_ratio9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio9/",
+        "dataset_size": 1736
+    },
+    
+
+
+
+
+
+
+
+
+    
+
     "hyperpartisan_news_aug_score_max24": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/score_max24/",
         "dataset_size": 551
