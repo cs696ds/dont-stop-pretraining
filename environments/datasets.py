@@ -168,39 +168,39 @@ DATASETS = {
     },
     "citation_intent_aug_ratio_acc1": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc1/",
-        "dataset_size": 1736
+        "dataset_size": 1784
     },
     "citation_intent_aug_ratio_acc2": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc2/",
-        "dataset_size": 1736
+        "dataset_size": 1832
     },
     "citation_intent_aug_ratio_acc3": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc3/",
-        "dataset_size": 1736
+        "dataset_size": 1880
     },
     "citation_intent_aug_ratio_acc4": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc4/",
-        "dataset_size": 1736
+        "dataset_size": 1928
     },
     "citation_intent_aug_ratio_acc5": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc5/",
-        "dataset_size": 1736
+        "dataset_size": 1976
     },
     "citation_intent_aug_ratio_acc6": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc6/",
-        "dataset_size": 1736
+        "dataset_size": 2024
     },
     "citation_intent_aug_ratio_acc7": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc7/",
-        "dataset_size": 1736
+        "dataset_size": 2072
     },
     "citation_intent_aug_ratio_acc8": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc8/",
-        "dataset_size": 1736
+        "dataset_size": 2120
     },
     "citation_intent_aug_ratio_acc9": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc9/",
-        "dataset_size": 1736
+        "dataset_size": 2168
     },    
 
     
@@ -213,39 +213,39 @@ DATASETS = {
     },
     "hyperpartisan_news_aug_ratio_acc1": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc1/",
-        "dataset_size": 531
+        "dataset_size": 546
     },
     "hyperpartisan_news_aug_ratio_acc2": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc2/",
-        "dataset_size": 531
+        "dataset_size": 561
     },
     "hyperpartisan_news_aug_ratio_acc3": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc3/",
-        "dataset_size": 531
+        "dataset_size": 576
     },
     "hyperpartisan_news_aug_ratio_acc4": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc4/",
-        "dataset_size": 531
+        "dataset_size": 591
     },
     "hyperpartisan_news_aug_ratio_acc5": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc5/",
-        "dataset_size": 531
+        "dataset_size": 606
     },
     "hyperpartisan_news_aug_ratio_acc6": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc6/",
-        "dataset_size": 531
+        "dataset_size": 621
     },
     "hyperpartisan_news_aug_ratio_acc7": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc7/",
-        "dataset_size": 531
+        "dataset_size": 636
     },
     "hyperpartisan_news_aug_ratio_acc8": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc8/",
-        "dataset_size": 531
+        "dataset_size": 651
     },
     "hyperpartisan_news_aug_ratio_acc9": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/ratio_acc9/",
-        "dataset_size": 531
+        "dataset_size": 666
     },
 
 
@@ -255,39 +255,39 @@ DATASETS = {
     },
     "rct-sample_aug_ratio_acc1": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc1/",
-        "dataset_size": 515
+        "dataset_size": 530
     },
     "rct-sample_aug_ratio_acc2": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc2/",
-        "dataset_size": 515
+        "dataset_size": 545
     },
     "rct-sample_aug_ratio_acc3": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc3/",
-        "dataset_size": 515
+        "dataset_size": 560
     },
     "rct-sample_aug_ratio_acc4": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc4/",
-        "dataset_size": 515
+        "dataset_size": 575
     },
     "rct-sample_aug_ratio_acc5": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc5/",
-        "dataset_size": 515
+        "dataset_size": 590
     },
     "rct-sample_aug_ratio_acc6": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc6/",
-        "dataset_size": 515
+        "dataset_size": 605
     },
     "rct-sample_aug_ratio_acc7": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc7/",
-        "dataset_size": 515
+        "dataset_size": 620
     },
     "rct-sample_aug_ratio_acc8": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc8/",
-        "dataset_size": 515
+        "dataset_size": 635
     },
     "rct-sample_aug_ratio_acc9": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/ratio_acc9/",
-        "dataset_size": 515
+        "dataset_size": 650
     },
 
 
@@ -430,3 +430,103 @@ DATASETS = {
         "dataset_size": 115251
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
