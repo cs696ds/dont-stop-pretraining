@@ -162,6 +162,162 @@ DATASETS = {
 
 
 
+
+
+
+
+
+
+
+    "citation_intent_aug_hard0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard0/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard1/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard2/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard3/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard4/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard5/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard6/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard7/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard8/",
+        "dataset_size": 1736
+    },
+    "citation_intent_aug_hard9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/hard9/",
+        "dataset_size": 1736
+    },    
+
+    
+
+
+    
+    "hyperpartisan_news_aug_hard0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard0/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard1/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard2/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard3/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard4/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard5/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard6/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard7/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard8/",
+        "dataset_size": 531
+    },
+    "hyperpartisan_news_aug_hard9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/hyperpartisan_news/hard9/",
+        "dataset_size": 531
+    },
+
+
+    "rct-sample_aug_hard0": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard0/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard1": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard1/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard2": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard2/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard3": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard3/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard4": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard4/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard5": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard5/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard6": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard6/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard7": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard7/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard8": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard8/",
+        "dataset_size": 515
+    },
+    "rct-sample_aug_hard9": {
+        "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/rct-sample/hard9/",
+        "dataset_size": 515
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
     "citation_intent_aug_ratio_acc0": {
         "data_dir": "https://raw.githubusercontent.com/cs696ds/da/main/data/aug/citation_intent/ratio_acc0/",
         "dataset_size": 1736
