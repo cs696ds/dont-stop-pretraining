@@ -1,43 +1,43 @@
 
 DATASETS = {
     "citation_intent_aug_large_top00001": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00001/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00001/",
         "dataset_size": 3148
     },
     "citation_intent_aug_large_top00002": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00002/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00002/",
         "dataset_size": 4608
     },
     "citation_intent_aug_large_top00003": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00003/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00003/",
         "dataset_size": 6068
     },
     "citation_intent_aug_large_top00004": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00004/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00004/",
         "dataset_size": 7528
     },
     "citation_intent_aug_large_top00005": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00005/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00005/",
         "dataset_size": 8988
     },
     "citation_intent_aug_large_top00006": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00006/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00006/",
         "dataset_size": 10448
     },
     "citation_intent_aug_large_top00007": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00007/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00007/",
         "dataset_size": 11908
     },
     "citation_intent_aug_large_top00008": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00008/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00008/",
         "dataset_size": 13368
     },
     "citation_intent_aug_large_top00009": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00009/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00009/",
         "dataset_size": 14828
     },
     "citation_intent_aug_large_top00010": {
-        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged/citation_intent/top00010/",
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/citation_intent/top00010/",
         "dataset_size": 16288
     },
 
