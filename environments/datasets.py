@@ -1,5 +1,100 @@
 
 DATASETS = {
+    "hyperpartisan_news_aug_large_top_hard00005": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00005/",
+        "dataset_size": 551
+    },
+    "hyperpartisan_news_aug_large_top_hard00010": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00010/",
+        "dataset_size": 579
+    },
+    "hyperpartisan_news_aug_large_top_hard00020": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00020/",
+        "dataset_size": 629
+    },
+    "hyperpartisan_news_aug_large_top_hard00030": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00030/",
+        "dataset_size": 671
+    },
+    "hyperpartisan_news_aug_large_top_hard00050": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00050/",
+        "dataset_size": 746
+    },
+    "hyperpartisan_news_aug_large_top_hard00100": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00100/",
+        "dataset_size": 896
+    },
+    "hyperpartisan_news_aug_large_top_hard00150": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00150/",
+        "dataset_size": 1005
+    },
+    "hyperpartisan_news_aug_large_top_hard00200": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00200/",
+        "dataset_size": 1077
+    },
+    "hyperpartisan_news_aug_large_top_hard00250": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/hyperpartisan_news/top00250/",
+        "dataset_size": 1098
+    },
+
+
+    
+
+    "hyperpartisan_news_aug_large_top00001": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00001/",
+        "dataset_size": 984
+    },
+    "hyperpartisan_news_aug_large_top00002": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00002/",
+        "dataset_size": 1452
+    },
+    "hyperpartisan_news_aug_large_top00003": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00003/",
+        "dataset_size": 1920
+    },
+    "hyperpartisan_news_aug_large_top00004": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00004/",
+        "dataset_size": 2388
+    },
+    "hyperpartisan_news_aug_large_top00005": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00005/",
+        "dataset_size": 2856
+    },
+    "hyperpartisan_news_aug_large_top00006": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00006/",
+        "dataset_size": 3324
+    },
+    "hyperpartisan_news_aug_large_top00007": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00007/",
+        "dataset_size": 3791
+    },
+    "hyperpartisan_news_aug_large_top00008": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00008/",
+        "dataset_size": 4256
+    },
+    "hyperpartisan_news_aug_large_top00009": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00009/",
+        "dataset_size": 4719
+    },
+    "hyperpartisan_news_aug_large_top00010": {
+        "data_dir": "https://raw.githubusercontent.com/heeh/rusty-wrangler/main/data/merged/hyperpartisan_news/top00010/",
+        "dataset_size": 5182
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     "citation_intent_aug_large_top_hard00005": {
         "data_dir": "https://raw.githubusercontent.com/heeh/augment/main/data/merged_hard/citation_intent/top00005/",
         "dataset_size": 1878
